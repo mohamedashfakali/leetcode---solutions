@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -325,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1051-height-checker) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
