@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0204-count-primes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
 | ------- |
