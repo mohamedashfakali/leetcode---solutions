@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0231-power-of-two) |
 ## Depth-First Search
 |  |
 | ------- |
