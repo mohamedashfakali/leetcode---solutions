@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0165-compare-version-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0165-compare-version-numbers) |
 ## Greedy
 |  |
 | ------- |
