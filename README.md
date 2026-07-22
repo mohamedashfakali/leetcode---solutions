@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0069-sqrtx) |
 ## Matrix
 |  |
 | ------- |
