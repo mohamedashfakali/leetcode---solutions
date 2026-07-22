@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1051-height-checker) |
+| [1260-shift-2d-grid](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1260-shift-2d-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,12 +180,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1260-shift-2d-grid) |
 ## Combinatorics
 |  |
 | ------- |
