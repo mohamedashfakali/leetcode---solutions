@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1313-decompress-run-length-encoded-list](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1313-decompress-run-length-encoded-list) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Trie
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1051-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Stack
 |  |
 | ------- |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0633-sum-of-square-numbers) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Matrix
 |  |
 | ------- |
