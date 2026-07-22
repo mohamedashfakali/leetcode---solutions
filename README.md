@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0709-to-lower-case](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1108-defanging-an-ip-address) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Combinatorics
 |  |
 | ------- |
