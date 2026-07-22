@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0238-product-of-array-except-self) |
+| [0739-daily-temperatures](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0509-fibonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
