@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0204-count-primes) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -198,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0200-number-of-islands) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
