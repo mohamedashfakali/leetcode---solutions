@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0202-happy-number) |
 ## Trie
 |  |
 | ------- |
