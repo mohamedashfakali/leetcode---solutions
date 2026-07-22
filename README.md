@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0389-find-the-difference) |
 ## Depth-First Search
 |  |
 | ------- |
