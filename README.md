@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0134-gas-station) |
+| [0200-number-of-islands](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0200-number-of-islands) |
 ## Tree
 |  |
 | ------- |
@@ -181,8 +184,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
