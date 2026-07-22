@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1748-sum-of-unique-elements) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Trie
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0200-number-of-islands) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -332,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
