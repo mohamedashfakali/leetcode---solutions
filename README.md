@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1748-sum-of-unique-elements](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1748-sum-of-unique-elements) |
 ## Trie
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1748-sum-of-unique-elements](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1748-sum-of-unique-elements) |
 ## Sliding Window
 |  |
 | ------- |
