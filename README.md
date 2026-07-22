@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,4 +106,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
