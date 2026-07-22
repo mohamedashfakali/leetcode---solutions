@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0010-regular-expression-matching) |
+| [0055-jump-game](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0055-jump-game) |
 ## Recursion
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
