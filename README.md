@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0203-remove-linked-list-elements) |
 ## Array
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0203-remove-linked-list-elements) |
 ## Binary Search
 |  |
 | ------- |
