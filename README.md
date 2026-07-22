@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0633-sum-of-square-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
