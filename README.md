@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
 | ------- |
