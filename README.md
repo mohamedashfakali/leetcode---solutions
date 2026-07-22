@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -107,8 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
