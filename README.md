@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
