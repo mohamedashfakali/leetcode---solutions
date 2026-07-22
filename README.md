@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0013-roman-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
