@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1929-concatenation-of-array) |
 ## Combinatorics
 |  |
 | ------- |
