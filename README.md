@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
