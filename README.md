@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,12 +141,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0134-gas-station) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
@@ -199,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -240,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -340,4 +347,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
