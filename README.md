@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0633-sum-of-square-numbers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Depth-First Search
 |  |
 | ------- |
