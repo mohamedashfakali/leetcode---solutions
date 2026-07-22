@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0069-sqrtx) |
+| [0633-sum-of-square-numbers](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0633-sum-of-square-numbers) |
 ## Matrix
 |  |
 | ------- |
