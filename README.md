@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1260-shift-2d-grid) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Two Pointers
 |  |
 | ------- |
