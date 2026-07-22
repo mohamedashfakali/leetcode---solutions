@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -230,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0238-product-of-array-except-self) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
