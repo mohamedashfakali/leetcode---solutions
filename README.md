@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0096-unique-binary-search-trees) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0063-unique-paths-ii) |
+| [0096-unique-binary-search-trees](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0096-unique-binary-search-trees) |
 ## Recursion
 |  |
 | ------- |
@@ -126,8 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
