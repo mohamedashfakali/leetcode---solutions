@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0633-sum-of-square-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0509-fibonacci-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Recursion
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Two Pointers
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0204-count-primes) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Prefix Sum
 |  |
 | ------- |
