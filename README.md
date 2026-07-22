@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0079-word-search) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -145,14 +147,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
