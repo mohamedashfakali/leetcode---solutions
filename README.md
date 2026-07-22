@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/mohamedashfakali/leetcode---solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
